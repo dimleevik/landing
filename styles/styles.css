@@ -1034,6 +1034,7 @@ header, footer{
     }
 
     .map{
+        padding: 0;
         order: -1;
     }
 
