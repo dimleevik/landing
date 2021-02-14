@@ -1037,6 +1037,10 @@ header, footer{
         order: -1;
     }
 
+    .container8 h3{
+        width: 90vw;
+    }
+
     .map img{
         width:90vw;
     }
